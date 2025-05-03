@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "starbucks-1"                  # Names of key in aws
+  default = "STAR"                  # Names of key in aws
 }
 
 
